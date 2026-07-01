@@ -94,14 +94,14 @@ motto: "As long as I live, there are infinite chances."
 <div align="center">
 
 <a href="https://github.com/VIGGY2582">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIGGY2582&repo=SkillScope&theme=tokyonight&border_color=D4AF37&bg_color=0D0D0D&title_color=D4AF37&icon_color=8B0000" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIGGY2582&repo=Reculla_Project&theme=tokyonight&border_color=D4AF37&bg_color=0D0D0D&title_color=D4AF37&icon_color=8B0000" />
 </a>
 <a href="https://github.com/VIGGY2582">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIGGY2582&repo=ERP-Management-System&theme=tokyonight&border_color=D4AF37&bg_color=0D0D0D&title_color=D4AF37&icon_color=8B0000" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIGGY2582&repo=Mini-ERP-From-Demand-to-Delivery---Odoo-x-KAHE-Coimbatore-Hackathon-26-&theme=tokyonight&border_color=D4AF37&bg_color=0D0D0D&title_color=D4AF37&icon_color=8B0000" />
 </a>
 <br/>
 <a href="https://github.com/VIGGY2582">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIGGY2582&repo=Doctor-Appointment-Booking-System&theme=tokyonight&border_color=D4AF37&bg_color=0D0D0D&title_color=D4AF37&icon_color=8B0000" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIGGY2582&repo=Doctor_appoinment_booking&theme=tokyonight&border_color=D4AF37&bg_color=0D0D0D&title_color=D4AF37&icon_color=8B0000" />
 </a>
 
 </div>
