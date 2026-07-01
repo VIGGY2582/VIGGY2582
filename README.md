@@ -106,7 +106,6 @@ motto: "As long as I live, there are infinite chances."
 
 </div>
 
-> 💡 **Note:** Replace the `repo=` values above with your **exact** GitHub repository names so the pinned cards render correctly.
 
 ### 🧠 SkillScope — AI Skill Gap Analysis Platform
 Full-stack AI-powered career platform that analyzes resumes, maps skill gaps against job roles, and generates personalized learning roadmaps.
