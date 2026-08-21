@@ -36,7 +36,7 @@ motto: "As long as I live, there are infinite chances."
 <td width="50%" valign="top">
 
 ### ☕ Java Backend Intern
-**Trinity Solutions** · 2024
+**Trinity Solutions** · 2026
 - Developed & optimized RESTful APIs using **Spring Boot**, improving API response times
 - Designed **PostgreSQL** schemas with optimized indexing strategies
 - Secured endpoints with **JWT** auth & role-based access control
@@ -45,7 +45,7 @@ motto: "As long as I live, there are infinite chances."
 <td width="50%" valign="top">
 
 ### 🌐 Web Development Intern
-**Mist Software Solutions** · 2023
+**Mist Software Solutions** · 2025
 - Built responsive interfaces using **React.js, HTML5, CSS3**
 - Focused on cross-device consistency
 - Integrated UI components with backend REST services
